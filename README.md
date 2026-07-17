@@ -6,7 +6,7 @@
 
 `「 CS Undergraduate building backend systems, AI agents, and distributed platforms 」`
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=88C0D0&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Distributed+Systems+Learner;Building+Multi-Agent+RAG+Platforms+with+LangGraph;Python+%2B+FastAPI+%2B+Django+%2B+React;3rd+Rank+-+Competitive+Programming+%28ACM+UET%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=88C0D0&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Distributed+Systems+Learner;Building+Multi-Agent+RAG+Platforms+with+LangGraph;Python+%2B+FastAPI+%2B+Django+%2B+React)](https://git.io/typing-svg)
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/mumer2650)
 
