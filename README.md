@@ -14,11 +14,9 @@
 
 - 🛠 **Technologies**
 
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg) | ![FastAPI](https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg) | ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) | ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg) | ![Neo4j](https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg) |
-| ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) | ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) | ![LangChain](https://img.shields.io/badge/LangChain-88C0D0?style=flat-square&logoColor=white) | ![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg) |
+  ![Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask,js,react,mysql,mongodb,redis,neo4j,docker,git,github,sqlite&theme=dark)
+
+  ![LangChain](https://img.shields.io/badge/LangChain-88C0D0?style=for-the-badge&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-88C0D0?style=for-the-badge&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-88C0D0?style=for-the-badge&logoColor=white)
 
 - 🧪 **Projects**
 
