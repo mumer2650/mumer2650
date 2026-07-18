@@ -14,7 +14,7 @@
 
 - 🛠 **Technologies**
 
-  ![Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask,js,react,mysql,mongodb,redis,neo4j,docker,git,github,sqlite&theme=dark)
+  ![Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask,js,react,mysql,mongodb,redis,docker,git,github,sqlite&theme=dark)
 
   ![LangChain](https://img.shields.io/badge/LangChain-88C0D0?style=for-the-badge&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-88C0D0?style=for-the-badge&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-88C0D0?style=for-the-badge&logoColor=white)
 
