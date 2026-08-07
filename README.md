@@ -37,7 +37,7 @@
 ### 📊 Vital Statistics
 
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mumer2650&theme=radical&hide_border=true&background=0D1117&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&v=2)](https://github.com/mumer2650)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mumer2650&theme=radical&hide_border=true&background=0D1117&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&v=3)](https://github.com/mumer2650)
 
 [![GitHub profile contribution summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumer2650&theme=radical)](https://github.com/mumer2650)
 
