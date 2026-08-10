@@ -5,9 +5,7 @@
 ### `> Hey There!, I am` [Muhammad Umer](https://www.linkedin.com/in/muhammad-umer-964135314/)
 
 `「 CS Undergraduate building backend systems, AI agents, and distributed platforms 」`
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=88C0D0&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Distributed+Systems+Learner;Building+Multi-Agent+RAG+Platforms+with+LangGraph;Python+%2B+FastAPI+%2B+Django+%2B+React)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=88C0D0&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Engineer;Architecting+Multi-Agent+RAG+Platforms;Python+%2B+FastAPI+%2B+React+%2B+LangGraph)](https://git.io/typing-svg)
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/mumer2650)
 
 ## 🛠 Technologies, Projects, and Domains
